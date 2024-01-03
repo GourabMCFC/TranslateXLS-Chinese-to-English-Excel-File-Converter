@@ -50,7 +50,3 @@ The translated Excel file is saved as "translated_sheet.xlsx".
 
 -   This script uses the Google Translate API through the `deep-translator` library.
 -   Original file: [Colab Notebook](https://colab.research.google.com/drive/1hLNNr2Esa0LC32GU7a9EFc7zKEhWfuyt)
-
-```
-
-```
