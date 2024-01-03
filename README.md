@@ -44,7 +44,7 @@ The script measures the time taken for translation and saving and prints the dur
 
 ## Output
 
-The translated Excel file is saved as "translated_sheet.xlsx".
+The translated Excel file is saved as **translated_sheet.xlsx**.
 
 ## Acknowledgments
 
